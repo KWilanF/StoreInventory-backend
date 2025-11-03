@@ -28,7 +28,7 @@ ALLOWED_HOSTS = [
     '10.0.2.2',
     '.onrender.com',  # Render domain
     '.vercel.app',
-    'store-inventories.vercel.app',
+    'storesinventory.vercel.app',
 ]
 
 # Add Render domain dynamically
