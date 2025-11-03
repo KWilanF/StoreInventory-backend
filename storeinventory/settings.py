@@ -66,7 +66,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
     "http://10.0.2.2:5173",
-    "https://store-inventories.vercel.app",
+    "https://storesinventories.vercel.app",
 ]
 
 # Add your Render frontend URL when you deploy it
